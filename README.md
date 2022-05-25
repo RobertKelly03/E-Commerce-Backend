@@ -7,8 +7,8 @@ The challenge is to build the back end for an e-commerce site.
 
 We’ll take a working Express.js API and configure it to use Sequelize to interact with a MySQL database. This application won’t be deployed so i’ll show a walkthrough video that demonstrates its functionality.
 Image showcasing the application running in Insomnia. 
+![gif1](https://user-images.githubusercontent.com/55413812/170154336-32be843c-aa9a-4524-a137-26587a189b44.gif)
 
-Demonstration Video demogif.gif
 
 Technologies
 Javascript
